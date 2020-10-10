@@ -1,0 +1,13 @@
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\bin\Debug\netcoreapp3.1\3lab.exe
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\bin\Debug\netcoreapp3.1\3lab.deps.json
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\bin\Debug\netcoreapp3.1\3lab.runtimeconfig.json
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\bin\Debug\netcoreapp3.1\3lab.runtimeconfig.dev.json
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\bin\Debug\netcoreapp3.1\3lab.dll
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\bin\Debug\netcoreapp3.1\3lab.pdb
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.csprojAssemblyReference.cache
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.AssemblyInfo.cs
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.dll
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.pdb
+C:\Users\Катя\Desktop\лабораторные\ООП\лабы\3lab\obj\Debug\netcoreapp3.1\3lab.genruntimeconfig.cache
